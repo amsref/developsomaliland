@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #317AE1;
+  color: #04b15f;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #317AE1;
+  color: #04b15f;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #317AE1;
+  background: #04b15f;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #317AE1;
+  background: #04b15f;
 }
 
 ::selection {
   color: #fff;
-  background: #317AE1;
+  background: #04b15f;
 }
 
 .fh5co-nav .top-menu {
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Space Mono", Arial, serif;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #317AE1;
+  color: #04b15f;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a span {
-  background: #317ae1;
+  background: #04b15f;
   padding: 4px 10px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6, figure {
   content: '';
   width: 30px;
   height: 2px;
-  background: #317AE1;
+  background: #04b15f;
   margin: 0 auto;
 }
 
@@ -360,7 +360,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: none;
 }
 #fh5co-hero .flexslider .slider-text-bg {
-  background: #317AE1;
+  background: #04b15f;
 }
 @media screen and (max-width: 992px) {
   #fh5co-hero .flexslider .slider-text-bg {
@@ -565,7 +565,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   top: 0;
   font-size: 18px;
-  color: #317AE1;
+  color: #04b15f;
 }
 
 .services {
@@ -616,7 +616,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #317AE1;
+  color: #04b15f;
 }
 
 .product {
@@ -690,7 +690,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #317AE1;
+  color: #04b15f;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -738,7 +738,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(49, 122, 225, 0.9);
+  background: rgba(4, 177, 95, 1);
 }
 #fh5co-started .fh5co-heading {
   margin-bottom: 0;
@@ -754,7 +754,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #317AE1;
+  color: #04b15f;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -832,7 +832,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-blog .blog-text span.comment a i {
-  color: #317AE1;
+  color: #04b15f;
   padding-left: 7px;
 }
 .fh5co-blog .blog-text h3 {
@@ -1157,9 +1157,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #317AE1;
+  background: #04b15f;
   color: #fff;
-  border: 2px solid #317AE1;
+  border: 2px solid #04b15f;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #4788e4 !important;
@@ -1167,11 +1167,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #317AE1;
-  border: 2px solid #317AE1;
+  color: #04b15f;
+  border: 2px solid #04b15f;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #317AE1;
+  background: #04b15f;
   color: #fff;
 }
 
@@ -1200,8 +1200,8 @@ h1, h2, h3, h4, h5, h6, figure {
   border: 2px solid #5bc0de;
 }
 .btn-info:hover, .btn-info:focus, .btn-info:active {
-  background: #46b8da !important;
-  border-color: #46b8da !important;
+  background: #04b15f !important;
+  border-color: #04b15f !important;
 }
 .btn-info.btn-outline {
   background: transparent;
@@ -1301,7 +1301,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #317AE1;
+  border-color: #04b15f;
 }
 
 .row-pb-md {
