@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 992px) {
   #fh5co-hero .flexslider .slider-text-bg {
-    background: rgba(49, 122, 225, 0.8);
+    background: rgba(4, 177, 95, 1);
     position: absolute;
     width: 100% !important;
     right: 0;
@@ -634,7 +634,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   text-decoration: none;
   color: #fff;
-  background: rgba(49, 122, 225, 0.5);
+  background: rgba(4, 177, 95, 1);
 }
 @media screen and (max-width: 768px) {
   .product .view {
